@@ -48,6 +48,11 @@
     "tsc": "tsc -p . --noEmit"
   },
   "dependencies": {
+    "@material-ui/core": "4.12.4",
+    "@material-ui/icons": "4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.57",
+    "@material-ui/system": "4.12.2",
+    "@mui/x-date-pickers": "^6.3.1",
     "@react-awesome-query-builder/ui": "workspace:^",
     "lodash": "^4.17.21",
     "material-ui-confirm": "^3.0.5"
