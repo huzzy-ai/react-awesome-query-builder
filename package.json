@@ -1,7 +1,7 @@
 {
-  "name": "@react-awesome-query-builder/root",
+  "name": "@huzzy-ai/react-awesome-query-builder",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "description": "User-friendly query builder for React. Demo: https://ukrbublik.github.io/react-awesome-query-builder",
   "keywords": [
     "query-builder",
@@ -38,7 +38,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ukrbublik/react-awesome-query-builder.git"
+    "url": "https://github.com/huzzy-ai/react-awesome-query-builder"
   },
   "funding": "https://opencollective.com/react-awesome-query-builder",
   "license": "MIT",
